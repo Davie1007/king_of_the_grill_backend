@@ -3,8 +3,8 @@
 
 Multi-branch | Real-time Dashboard | M-Pesa STK & C2B | Credit Sales | Loyalty Cards | Bill Payments | Warehouse Dispatch
 
-Frontend repo: https://github.com/yourusername/posify-react-dashboard  
-Backend repo: https://github.com/yourusername/posify-laravel-api  
+Frontend repo: https://github.com/Davie1007/king_of_the_grill_frontend  
+Backend repo: https://github.com/Davie1007/king_of_the_grill_backend 
 
 ---
 ### Features
