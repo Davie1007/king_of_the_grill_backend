@@ -1,0 +1,12 @@
+Undefined array key "mpesa_ref"
+#0 /home/davie/My_Projects/symo_biz/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(258): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home/davie/My_Projects/symo_biz/tests/manual_verification.php(186): Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#2 /home/davie/My_Projects/symo_biz/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/EventFake.php(242): {closure}()
+#3 [internal function]: Illuminate\Support\Testing\Fakes\EventFake->Illuminate\Support\Testing\Fakes\{closure}()
+#4 /home/davie/My_Projects/symo_biz/vendor/laravel/framework/src/Illuminate/Collections/Arr.php(1160): array_filter()
+#5 /home/davie/My_Projects/symo_biz/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(415): Illuminate\Support\Arr::where()
+#6 /home/davie/My_Projects/symo_biz/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/EventFake.php(241): Illuminate\Support\Collection->filter()
+#7 /home/davie/My_Projects/symo_biz/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/EventFake.php(145): Illuminate\Support\Testing\Fakes\EventFake->dispatched()
+#8 /home/davie/My_Projects/symo_biz/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(363): Illuminate\Support\Testing\Fakes\EventFake->assertDispatched()
+#9 /home/davie/My_Projects/symo_biz/tests/manual_verification.php(185): Illuminate\Support\Facades\Facade::__callStatic()
+#10 {main}
